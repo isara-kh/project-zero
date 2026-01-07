@@ -7,4 +7,4 @@ While the Capital Asset Pricing Model (CAPM) traditionally estimates Beta using 
 
 
 ---
-**Status:** [Work in Progress / Completed]
+**Status:** [Work in Progress]
